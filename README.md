@@ -17,6 +17,10 @@
 
 <br>
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDeAquino&layout=compact&langs_count=7&theme=dracula"/>
+  
+<br>
+
 <div style="display: inline_block"><br>
   <h2>Tecnologias que estou estudando:</h2>
   <img align="center" alt="Jorge-typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
@@ -38,5 +42,4 @@
 <div align="center">
   <a href="https://github.com/JorgeDeAquino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeDeAquino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDeAquino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
