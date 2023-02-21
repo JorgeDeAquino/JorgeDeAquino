@@ -1,6 +1,6 @@
 <h1> Olá eu sou o Jorge Alexandre de Aquino </h1>
 
-### Seja bem vindo a minha pagina do GitHub! 
+### Seja bem vindo(a)! 
 
 <div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com?user=JorgeDeAquino&theme=dracula&border_radius=5&locale=pt-br" alt="mosaicoJorge" /></div>
 
