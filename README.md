@@ -29,9 +29,3 @@
   <a href = "mailto:jorgeaamsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  ##
-
-<div align="center">
-  <a href="https://github.com/JorgeDeAquino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeDeAquino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
