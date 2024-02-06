@@ -20,15 +20,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDeAquino&layout=compact&langs_count=7&theme=dracula"/>
  </div>
-
-<div style="display: inline_block"><br>
-  <h2>Tecnologias que estou estudando:</h2>
-  <img align="center" alt="Jorge-typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jorge-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Jorge-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Jorge-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-</div>
-          
+         
 <br>
 
 <div> 
