@@ -1,6 +1,6 @@
 <h1>
 Olá eu sou o 
-Jorge Alexandre de Aquino
+Jorge Alexandre
 </h1>
 
 
