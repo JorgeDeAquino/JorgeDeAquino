@@ -9,6 +9,7 @@
 </div>
 
 <div style="display: inline_block">
+
   <br>
   <h2>Tecnologias mais utilizadas:</h2>
   <img align="center" alt="React-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
