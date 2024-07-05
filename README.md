@@ -27,10 +27,6 @@
 
 <br>
 
-<div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com?user=JorgeDeAquino&theme=dracula&border_radius=5&locale=pt-br" alt="mosaicoJorge" /></div>
-
-<br>
-
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDeAquino&layout=compact&langs_count=7&theme=dracula"/>
