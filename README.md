@@ -24,11 +24,3 @@
   <img align="center" alt="Vue-JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Tailwind" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
-
-<br>
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDeAquino&layout=compact&langs_count=7&theme=dracula"/>
-  
-</div>
