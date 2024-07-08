@@ -6,9 +6,8 @@
 
   <br>
   
-  <h2>
-    Tecnologias mais utilizadas:
-  </h2>
+***Tecnologias mais utilizadas:***
+
   <img align="center" alt="React-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next-js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
