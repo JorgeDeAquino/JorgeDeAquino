@@ -1,6 +1,4 @@
-<h1> 
-  Olá, seja muito bem vindo(a)! 
-</h1>
+<h1> Olá, seja muito bem vindo(a)! </h1>
 
 <div style="display: inline_block">
 
