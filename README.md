@@ -11,6 +11,7 @@
   <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vue-JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Tailwind" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  
 </div>
 
 <div> 
